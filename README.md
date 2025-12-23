@@ -29,3 +29,8 @@ identity layer for the internet of value.
 
 ## Website
 https://onchain-id.id
+## Smart Contract
+
+- **Network:** Ethereum Mainnet  
+- **Address:** `0xf2D0f2057A1C5323015cF51baFCDf57293F86d04`  
+- **Explorer:** https://etherscan.io/address/0xf2D0f2057A1C5323015cF51baFCDf57293F86d04
